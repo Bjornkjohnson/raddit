@@ -13,6 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise'
 gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'simple_form', '3.0.2'
 
 group :development, :test do
   gem 'byebug'
